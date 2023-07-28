@@ -5,3 +5,4 @@ b=20
 c=$(( $a + $b ))
 echo $c
 
+# Writing code upon codespace creation!
